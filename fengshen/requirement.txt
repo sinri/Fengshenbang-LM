@@ -6,3 +6,9 @@ jieba-fast>=0.53
 jieba>=0.40.0
 protobuf==3.20.1
 
+# accelerate
+# diffusers
+# torchvision
+# torch ≥1.8, ≤1.11
+# https://www.bilibili.com/read/cv21519923/
+# https://github.com/facebookresearch/xformers/issues/473 -> pip: pip install xformers==0.0.20+1d635e1.d20230519
