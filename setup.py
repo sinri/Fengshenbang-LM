@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fengshen",
-    version="0.0.1",
+    version="0.0.1a2",
     description="fengshen",
     long_description="fengshen",
     license="MIT Licence",
@@ -29,3 +29,5 @@ setup(
         ]
     }
 )
+
+# python setup.py bdist_wheel
